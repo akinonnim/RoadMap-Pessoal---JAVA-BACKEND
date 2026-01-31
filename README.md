@@ -25,9 +25,9 @@ public static void main(String[] args) {
 System.out.println("Olá, GitHub! Aqui começa minha jornada java pessoal!");
   }
 }
-
 ```
-
+ <br>
+ 
 ## Estrutura do Planejamento de Estudos
 
 Não estipulei prazo, mas defini pequenos objetivos mediante a uma análise de algumas vagas em sites famosos de busca de emprego. 
@@ -54,13 +54,15 @@ A listagem é simples, organizada em tópico principal e subtópico. A ordem dos
 | Exceptions e JVM | Hierarquia de Exceptions, Try-Catch, Try Whith Resources, JVM: Garbage Collector e memória |
 | JPA | ORM, Abstração, JPQL, Anotações | 
 | JUnit | Testes Unitários | 
-| Mockito | Simulações | 
+| Mockito | Simulações | <br>
+<br>
 
 > Apesar de _JUnit_ e _Mockito_ serem praticamente Frameworks - como o Springboot pelo que eu consegui pesquisar de forma superficial - vou considerar como
-parte integrante do ciclo de aprendizado Java por aparecerem como requisitos de linguagem em algumas vagas, não como frameworks "diferenciais". 
+parte integrante do ciclo de aprendizado Java por aparecerem como requisitos de linguagem em algumas vagas, não como frameworks "diferenciais". <br>
+<br>
+<br>
 
 ## Framework
-<br>
  
 <img src="spring-boot-svgrepo-com.png" align="left" width="350"> <br>
 <br>
@@ -71,10 +73,7 @@ O principal framework do Java na atualidade, é sem dúvidas o Spring, uma ferra
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
+
 
 | **Tópico** | **Subtópico** |
 | :---: | :---: |
